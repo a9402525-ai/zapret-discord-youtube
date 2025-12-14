@@ -3,8 +3,8 @@ encryptedsni.com
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
-cloudflareclient.com
-cloudflareinsights.com
+witch Game Filter (enabled)
+Switch ipset (any)
 cloudflareok.com
 cloudflarepartners.com
 cloudflareportal.com
